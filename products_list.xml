@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <product>
+    <Name>asd 1</Name>
+    <QuantityInStock>1</QuantityInStock>
+    <PricePerItem>10.10</PricePerItem>
+    <CreatedAt>2020-12-16 02:53:00</CreatedAt>
+  </product>
+<product><Name>asd 2</Name><QuantityInStock>1</QuantityInStock><PricePerItem>20.20</PricePerItem><CreatedAt>2020-12-16 02:53:38</CreatedAt></product></Products>
